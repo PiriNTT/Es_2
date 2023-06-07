@@ -50,7 +50,7 @@ public class Automobile {
         System.out.println("Bruuuuuuum....popooppo!");
     }
 
-    public  void ferma(){
+    public void ferma(){
         System.out.println("pufff....");
     }
 
