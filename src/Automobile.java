@@ -46,4 +46,15 @@ public class Automobile {
     public void setColore(String colore) {
         this.colore = colore;
     }
+    public void avvia(){
+        System.out.println("Bruuuuuuum....popooppo!");
+    }
+
+    public  void ferma(){
+        System.out.println("pufff....");
+    }
+
+    public void suona_clacson(){
+        System.out.println("Beeeeep");
+    }
 }
