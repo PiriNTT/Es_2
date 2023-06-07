@@ -1,0 +1,12 @@
+Index: src/Automobile.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Automobile {\r\n}\r\n
+===================================================================
+diff --git a/src/Automobile.java b/src/Automobile.java
+--- a/src/Automobile.java	
++++ b/src/Automobile.java	
+@@ -1,2 +1,3 @@
+ public class Automobile {
++
+ }
